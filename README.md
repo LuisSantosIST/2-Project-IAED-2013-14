@@ -11,6 +11,6 @@ The project consisted in the use of a linked lists to simulate a email box.
 
 gcc -ansi -Wall -pedantic -o project menu.c
 
-./menu
+./project
 
 Now you just need to insert the commands specified in p2.pdf
